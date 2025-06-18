@@ -15,6 +15,7 @@ joblib = "*"
 jupyter = "*"
 notebook = "*"
 ipython = "*"
+libpysal = "*"
 
 [dev-packages]
 
