@@ -4,24 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+scipy = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
 geopandas = "*"
+esda = "*"
+scikit-learn = "*"
+joblib = "*"
 jupyter = "*"
 notebook = "*"
-geopy = "*"
-tqdm = "*"
-seaborn = "*"
-matplotlib = "*"
-numpy = "*"
-scipy = "*"
-pydantic-settings = "*"
-pydantic = "*"
-ydata-profiling = "*"
-joblib = "*"
-scikit-learn = "*"
 ipython = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.13"
+python_full_version = "3.13.5"
