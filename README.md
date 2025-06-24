@@ -1,4 +1,10 @@
 # NYC Housing Price Prediction: Geospatial ML [Work in Progress]
 
-**Current Status**: Actively refining spatial models and expanding feature engineering.  
+**Project Status**:
+- ✅ Exploratory Data Analysis (Completed)  
+- ✅ Baseline Model Development (Completed)  
+- [ ] Spatial Feature Optimization (In Progress)
+- [ ] K-fold Target Encoding (Planned)
+- [ ] Model Selection and Optimization (Planned)
+
 **Latest Update**: Implemented Moran's I
