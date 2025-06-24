@@ -8,3 +8,6 @@
 - [ ] Model Selection and Optimization (Planned)
 
 **Latest Update**: Implemented Moran's I
+
+**Experiment Tracker**
+[![Experiment History](https://img.shields.io/badge/View-Experiment_Log-blue)](outputs/experiment_log.csv)
