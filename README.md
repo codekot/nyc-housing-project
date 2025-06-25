@@ -8,7 +8,7 @@ Predicting NYC residential prices using spatial features and machine learning.
 ## Project Overview
 - **Goal**: Predict housing prices with geospatial features (proximity, neighborhood effects)
 - **Data**: 
-  - Primary: [New York Housing Market (2016-2017)](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
+  - Primary: [New York Housing Market (dataset from Kaggle)](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
 
 **Project Status**:
 - ✅ Exploratory Data Analysis (Completed)
