@@ -1,5 +1,7 @@
 # NYC Housing Price Prediction: Geospatial ML [Work in Progress]
 
+**📊 [NYC Hosing Price Exploratory Data Analysis and Predition Notebook](notebooks/nyc_2024.ipynb)**
+
 **Project Status**:
 - ✅ Exploratory Data Analysis (Completed)
 - ✅ Baseline Model Development (Completed)  
