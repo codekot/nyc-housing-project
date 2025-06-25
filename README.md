@@ -3,8 +3,8 @@
 **📊 [NYC Hosing Price Exploratory Data Analysis and Predition Notebook](notebooks/nyc_2024.ipynb)**
 
 **Project Status**:
-- ✅ Exploratory Data Analysis (Completed)
-- ✅ Baseline Model Development (Completed)  
+&emsp;✅ Exploratory Data Analysis (Completed)
+&emsp;✅ Baseline Model Development (Completed)  
 - [ ] Spatial Feature Optimization (In Progress)
 - [ ] K-fold Target Encoding (Planned)
 - [ ] Model Selection and Optimization (Planned)
