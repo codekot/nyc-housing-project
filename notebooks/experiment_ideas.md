@@ -1,6 +1,11 @@
 # NYC Housing - Raw Ideas
 
-### Untested
+### Need Research
 - permutation_importance
 - Spatial CV
-- Target Encode median price by zip 
+
+### Untested
+- Hot Spot Analysis
+- Target Encode median price by zip
+
+## Resolved
