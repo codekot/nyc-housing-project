@@ -16,6 +16,8 @@ jupyter = "*"
 notebook = "*"
 ipython = "*"
 libpysal = "*"
+contextily = "*"
+pyproj = "*"
 
 [dev-packages]
 
