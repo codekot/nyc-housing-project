@@ -7,8 +7,10 @@
 - Clusterization methods on different parameters
 
 ### Untested
-- Hot Spot Analysis
 - Target Encode median price by zip
 - Moran’s I on residuals after modelling
+
+## In Progress
+- Hot Spot Analysis
 
 ## Resolved
