@@ -7,6 +7,7 @@
 - Clusterization methods on different parameters
 
 ### Untested
+- Add price_per_sqft analysis
 - Target Encode median price by zip
 - Moran’s I on residuals after modelling
 
