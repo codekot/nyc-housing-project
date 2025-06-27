@@ -17,7 +17,7 @@ Predicting NYC residential prices using spatial features and machine learning.
 - [ ] K-fold Target Encoding (Planned)
 - [ ] Model Selection and Optimization (Planned)
 
-**Latest Update**: Implemented Moran's I
+**Latest Update**: Finded optimal parameters for hot spot analysis
 
 **Experiment Tracker**
 [![Experiment History](https://img.shields.io/badge/View-Experiment_Log-blue)](outputs/experiment_log.csv)

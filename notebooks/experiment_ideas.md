@@ -7,7 +7,6 @@
 - Clusterization methods on different parameters
 
 ### Untested
-- Add price_per_sqft analysis
 - Target Encode median price by zip
 - Moran’s I on residuals after modelling
 
@@ -15,3 +14,5 @@
 - Hot Spot Analysis
 
 ## Resolved
+- Add price_per_sqft analysis - gives moderate-strong correlation to price =0.72. 
+Feature could be used on hot spot analysis
