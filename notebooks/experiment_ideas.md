@@ -1,15 +1,24 @@
 # NYC Housing - Raw Ideas
 
+### Maybe
+- Subway distance
+- PLUTO tax log features
+
 ### Need Research
 - Feature Selection - Permutation_importance
 - Spatial CV
 - Spatial Regression
 - Test for homogeneity
 - Clusterization methods on different parameters
+- TransformedTargetRegressor
+- Sklearn Intelex
+- Model Stacking
 
 ### Untested
 - Target Encode median price by zip
 - Moran’s I on residuals after modelling
+- Cold Spot Analysis
+
 
 ## In Progress
 - Hot Spot Analysis
