@@ -1,8 +1,9 @@
 # NYC Housing - Raw Ideas
 
 ### Need Research
-- Permutation_importance
+- Feature Selection - Permutation_importance
 - Spatial CV
+- Spatial Regression
 - Test for homogeneity
 - Clusterization methods on different parameters
 
