@@ -18,6 +18,9 @@ ipython = "*"
 libpysal = "*"
 contextily = "*"
 pyproj = "*"
+leafmap = "*"
+jupyter-leaflet = "*"
+geemap = "*"
 
 [dev-packages]
 
