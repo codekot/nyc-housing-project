@@ -21,6 +21,7 @@ pyproj = "*"
 leafmap = "*"
 jupyter-leaflet = "*"
 geemap = "*"
+folium = "*"
 
 [dev-packages]
 
