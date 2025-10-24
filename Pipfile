@@ -18,6 +18,7 @@ ipython = "*"
 libpysal = "*"
 contextily = "*"
 pyproj = "*"
+pandoc = "*"
 
 [dev-packages]
 
