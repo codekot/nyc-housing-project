@@ -18,6 +18,7 @@ pysal = "*"
 libpysal = "*"
 esda = "*"
 folium = "*"
+pandoc = "*"
 
 [dev-packages]
 
