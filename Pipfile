@@ -4,28 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-scipy = "*"
+numpy = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
-geopandas = "*"
-esda = "*"
+scipy = "*"
 scikit-learn = "*"
-joblib = "*"
-jupyter = "*"
-notebook = "*"
-ipython = "*"
-libpysal = "*"
-contextily = "*"
-pyproj = "*"
-leafmap = "*"
-jupyter-leaflet = "*"
-geemap = "*"
-folium = "*"
-pandoc = "*"
+geopandas = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
-python_full_version = "3.13.5"
+python_version = "3.14"
