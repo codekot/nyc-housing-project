@@ -13,6 +13,7 @@ scikit-learn = "*"
 geopandas = "*"
 jupyter = "*"
 notebook = "*"
+folium = "*"
 
 [dev-packages]
 
